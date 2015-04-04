@@ -1,0 +1,27 @@
+{
+  "name": "gs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "launch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marclar/streamline-loader-test.git"
+  },
+  "author": "Michael Kane <mk+npm@mk4p.com> (http://www.mk4p.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marclar/streamline-loader-test/issues"
+  },
+  "homepage": "https://github.com/marclar/streamline-loader-test",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "enhanced-require": "^0.5.0-beta6",
+    "null-loader": "^0.1.1",
+    "raw-loader": "^0.5.1",
+    "streamline": "^0.12.1",
+    "streamline-loader": "0.1.5"
+  }
+}
